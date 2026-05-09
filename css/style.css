@@ -39,8 +39,6 @@ a {
     max-width: 1110px;
     width: 100%;
     margin: 0 auto;
-    border-right: 1px solid red;
-    border-left: 1px solid red;
 }
 
 .menu__mobile {

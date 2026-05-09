@@ -103,7 +103,7 @@ a {
 .hero {
     display: flex;
     gap: 30px;
-    min-width: 1110px;
+    width: 100%;
     margin-bottom: 69px;
 }
 
